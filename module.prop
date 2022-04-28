@@ -1,0 +1,6 @@
+id=oplus-chargesound-disable
+name=Disable charging sound for OPLUS
+version=v01
+versionCode=1
+author=AndroPlus
+description=Disable charging / USB sound
